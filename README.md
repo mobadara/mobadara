@@ -3,6 +3,6 @@
 <p style="text-align : center;">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Monaco&color=cyan&size=30&center=true&vCenter=true&width=600&height=100&lines=Welcome,+..&hearts;++;Computer+Science+Student,;Data+Scientist,;Active+Learner/Researcher,;Active+Listener.."></a>
 </p>
-<img src="https://1drv.ms/i/s!AkJoTqyBharQk30kngNgnHUJ6L1U?e=p1IIiI" alt="intro-img">
+<img src="b.svg" alt="intro-img">
 
 
