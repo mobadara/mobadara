@@ -4,14 +4,15 @@
 
 ### About Me 🚀
 ___
+
+🌱 I'm a passionate learner in the fields of **Machine Learning** and **Cloud Computing**.
+🐍 Proficient in **Python**, comfortable with **SQL**, and adept at using various analytics tools.
 - 🔭 I’m currently working on improving machine learning models for real-world applications.
 - 🌱 I’m on a continuous learning journey to master the latest in artificial intelligence.
 - 💬 Ask me about anything related to Python, Machine Learning, and Data Science.
 
 ### Technologies
 ___
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo"  />
@@ -33,18 +34,12 @@ ___
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="kaggle logo"  />
 </div>
 
-###
-
 ### Profile Views
 ___
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/muyiwa-obadara/count.svg?"  />
 </div>
-
-###
 
 ### Medium Posts
 ___
@@ -53,7 +48,6 @@ ___
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=muyiwaobadara" alt="Layout with last medium posts"  />
 </div>
 
-###
 ### Socials
 ___
 
