@@ -1,25 +1,31 @@
-### Hi there 👋, my name is Muyiwa!
-#### I am a Data Scientist 📊
-![I am a Data Scientist 📊](https://th.bing.com/th/id/OIP.zo8I-7YvKDyD05CEXf1SuwHaCS?rs=1&pid=ImgDetMain)
+<h1 align="center">Hi 👋, I'm Muyiwa Obadara</h1>
+<h3 align="center">A forward-thinking data scientist, architecting intelligent solutions with deep learning.</h3>
 
-👋 Hi there! I’m a data scientist with a passion for AI and continuous learning. When I’m not crunching numbers, you’ll find me exploring the fascinating world of mathematics 📐 or playing beautiful melodies on the piano 🎹. Let’s connect and create something amazing! 🚀
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mobadara&label=Profile%20views&color=0e75b6&style=flat" alt="mobadara" /> </p>
 
-Skills: PYTHON / SQL / AZURE  / JS / HTML / CSS / AWS / Power BI / PyTorch / 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mobadara" alt="mobadara" /></a> </p>
 
-- 🔭 Open to opportunities and collaboration in Finance, Business  and Research
+<p align="left"> <a href="https://twitter.com/m_obadara" target="blank"><img src="https://img.shields.io/twitter/follow/m_obadara?logo=twitter&style=for-the-badge" alt="m_obadara" /></a> </p>
 
+- 🌱 I’m currently learning **PyTorch**
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/muyiwa-obadara)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muyiwaobadara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mj.obadara)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/muyiwa_obadara/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/M_Obadara)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/12645276)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/muyiwaobadara)  
+- 💬 Ask me about **Data Science, Machine Learning**
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+- 📫 How to reach me **muyiwa.j.obadara@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=muyiwa-obadara)](https://github.com/ryo-ma/github-profile-trophy)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/m_obadara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="m_obadara" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/obadara-m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obadara-m" height="30" width="40" /></a>
+<a href="https://fb.com/obadara.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obadara.m" height="30" width="40" /></a>
+<a href="https://instagram.com/obadara.m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="obadara.m" height="30" width="40" /></a>
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muyiwa-obadara)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=muyiwa-obadara&show_icons=true)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mobadara&show_icons=true&locale=en&layout=compact" alt="mobadara" /></p>
 
-![GitHub metrics](https://metrics.lecoq.io/muyiwa-obadara)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mobadara&show_icons=true&locale=en" alt="mobadara" /></p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=muyiwa-obadara)  
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mobadara&" alt="mobadara" /></p>
