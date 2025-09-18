@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/m_obadara" target="blank"><img src="https://img.shields.io/twitter/follow/m_obadara?logo=twitter&style=for-the-badge" alt="m_obadara" /></a> </p>
 
-- 🌱 I’m currently learning **PyTorch**
+- 🌱 Developer Foundry Fellow @ [Tech4Dev](https://tech4dev.com)
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
