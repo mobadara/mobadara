@@ -59,7 +59,7 @@ Alongside, I mentor medical professionals in **healthcare data analysis** at [Me
 |----------|--------------|-------|
 | 🩺 **Cardiovascular Disease Risk Prediction** | Machine Learning model deployed with **FastAPI** to assess heart disease risk. | [🔗 GitHub](https://github.com/mobadara/cardiovascular-disease-risk-prediction) · [🌐 API](https://cardiovascular-disease-risk-prediction.onrender.com/docs) |
 | ⚙️ **Torchflow (PyPI)** | Open-source **PyTorch training framework** that simplifies model loops, tuning, and callbacks. | [📦 PyPI](https://pypi.org/project/torchflow-core) · [🔗 GitHub](https://github.com/mobadara/torchflow) · [📘 Docs](https://mobadara.github.io/torchflow) |
-| 🏠 **Housing Prices in India** | End-to-end ML project exploring EDA, feature engineering, and regression modeling. | [🔗 GitHub](https://github.com/mobadara/india-housing-eda) |
+| 🏠 **Housing Prices in India** | End-to-end ML project exploring EDA, feature engineering, and regression modeling. | [🔗 GitHub](https://github.com/mobadara/housing-in-india) |
 | 🧬 **Healthcare Image Classification (WIP)** | CNN-based project for early disease detection from medical images. | *In progress* |
 
 ---
