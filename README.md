@@ -3,7 +3,7 @@
 <!-- 👋🏽 Hi there, welcome to my GitHub profile! -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mobadara/assets/main/github-banner.png" alt="Muyiwa Obadara Banner" width="100%">
+  <img src="[https://raw.githubusercontent.com/mobadara/assets/main/github-banner.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5fTvBqEpyLmHNzZVx0YlKR5wOxFoLRAtZxA&s)" alt="Muyiwa Obadara Banner" width="100%">
 </p>
 
 <h1 align="center">👋🏽 Hi, I'm Muyiwa Obadara</h1>
