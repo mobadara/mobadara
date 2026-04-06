@@ -1,100 +1,58 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mobadara&label=Profile%20views&color=0e75b6&style=flat" alt="mobadara" /> </p>
+# Muyiwa Obadara
 
-<!-- 👋🏽 Hi there, welcome to my GitHub profile! -->
+Machine Learning Engineer | AI Solutions Architect | MLOps Specialist | Mentor
 
-<!-- 👋🏽 Hi there, welcome to my GitHub profile! -->
-
-<p align="center">
-  <img src="https://www.101labs.net/wp-content/uploads/2025/01/1_CWFkh5z8oa6dZfn5_gkKKQ.jpg" alt="Muyiwa Obadara Banner" width="100%">
-</p>
-
-<h1 align="center">👋🏽 Hi, I'm Muyiwa Obadara</h1>
-
-<p align="center">
-  <em>Data Scientist • Machine Learning Developer • STEM Educator</em><br>
-  Passionate about using AI for social good — especially in healthcare, education, and research.
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=mobadara&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/mobadara?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/mobadara?style=social)
 
 ---
 
-<p align="center">
-  <a href="https://github.com/mobadara?tab=repositories">
-    <img src="https://img.shields.io/badge/🔍-View%20Repositories-blue?style=for-the-badge" alt="Repositories">
-  </a>
-  <a href="https://mobadara.medium.com">
-    <img src="https://img.shields.io/badge/📝-Read%20My%20Blog-black?style=for-the-badge" alt="Blog">
-  </a>
-  <a href="https://linkedin.com/in/obadara-m">
-    <img src="https://img.shields.io/badge/💼-Connect%20on%20LinkedIn-blue?style=for-the-badge" alt="LinkedIn">
-  </a>
-  <a href="https://x.com/m_obadara">
-    <img src="https://img.shields.io/badge/🐦-Follow%20on%20X-1DA1F2?style=for-the-badge" alt="Twitter">
-  </a>
-</p>
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?logo=power-bi&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-FF9900?logo=amazonaws&logoColor=white)
+![Azure ML](https://img.shields.io/badge/Azure%20ML-0078D4?logo=microsoft-azure&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?logo=tensorflow&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-I’m a **Data Scientist and AI Enthusiast** with a background in **Physics** and deep interest in how data can transform lives.  
-My work bridges science, technology, and social impact — combining technical skills in **Machine Learning**, **Deep Learning**, and **Data Visualization** with a passion for making learning and healthcare more accessible.  
+I am a Machine Learning Engineer who loves to build highly scalable solutions using AI that provide tangible benefits for organizations. I use MLOps practices to put models into production and guide others to develop AI applications. I assist companies and sectors to address intricate issues through intelligent and data-centric approaches.
 
-I currently serve as an **AI/ML Fellow** at [Tech4Dev’s Developer Foundry](https://developersfoundry.org), where I’m strengthening my skills in deep learning and AI application development.  
-Alongside, I mentor medical professionals in **healthcare data analysis** at [Medics In Tech](https://www.linkedin.com/company/medicsintech).  
+## 💼 What I Do
 
----
-
-## ⚙️ Tech Stack
-
-**Languages:** Python, JavaScript, SQL, C++  
-**Libraries & Frameworks:** PyTorch, Scikit-learn, FastAPI, Pandas, NumPy, Matplotlib, Seaborn  
-**Tools:** Git, Power BI, Tableau, Jupyter, VS Code, Google Colab, AWS Sagemaker  
-**Domains:** Data Science, Machine Learning, AI for Healthcare, FinTech Analytics, STEM Education  
+- **AI/ML Engineering** — Design and deploy machine learning models in production
+- **MLOps** — Build scalable pipelines and infrastructure for ML systems
+- **Mentorship** — Guide professionals in AI and machine learning development
+- **Open Source** — Contribute tools that make ML accessible
 
 ---
 
-## 🚀 Featured Projects
+## 📦 Open Source
 
-| Project | Description | Links |
-|----------|--------------|-------|
-| 🩺 **Cardiovascular Disease Risk Prediction** | Machine Learning model deployed with **FastAPI** to assess heart disease risk. | [🔗 GitHub](https://github.com/mobadara/cardiovascular-disease-risk-prediction) · [🌐 API](https://cardiovascular-disease-risk-prediction.onrender.com/docs) |
-| ⚙️ **Torchflow (PyPI)** | Open-source **PyTorch training framework** that simplifies model loops, tuning, and callbacks. | [📦 PyPI](https://pypi.org/project/torchflow-core) · [🔗 GitHub](https://github.com/mobadara/torchflow) · [📘 Docs](https://mobadara.github.io/torchflow) |
-| 🏠 **Housing Prices in India** | End-to-end ML project exploring EDA, feature engineering, and regression modeling. | [🔗 GitHub](https://github.com/mobadara/housing-in-india) |
-| 🧬 **Healthcare Image Classification (WIP)** | CNN-based project for early disease detection from medical images. | *In progress* |
+**[torchflow-core](https://pypi.org/project/torchflow-core)** — A PyTorch training framework that simplifies model loops, tuning, and callbacks.
 
----
-
-## 🎯 Current Focus
-
-- Deep Learning and Computer Vision (PyTorch, CNNs, Transfer Learning)  
-- AI for Healthcare and Social Impact  
-- Building open-source tools that make machine learning easier for beginners  
-- Writing educational articles on [Medium](https://mobadara.medium.com) to share knowledge  
+```bash
+pip install torchflow-core
+```
 
 ---
 
-## 🧩 My Core Values
+## 🔗 Connect & Learn More
 
-💡 **Curiosity** — Keep learning, always.  
-🤝 **Collaboration** — Innovation grows in community.  
-🌍 **Impact** — Use technology to make life better.  
-📚 **Education** — Inspire the next generation of STEM thinkers.  
-
----
-
-## ✉️ Let’s Connect!
-
-I love collaborating on meaningful projects, especially in **AI for healthcare, data-driven education, or community impact**.  
-Feel free to reach out — let’s build something impactful together!
-
-<p align="center">
-  <a href="mailto:mobadara.dev@gmail.com">
-    <img src="https://img.shields.io/badge/📧-Email%20Me-blue?style=for-the-badge" alt="Email">
-  </a>
-</p>
+- **[Portfolio](https://portfolio-frontend-livid.vercel.app)** — Explore my work and use the chatbot to learn more or contact me
+- **[Projects](https://portfolio-frontend-livid.vercel.app/projects)** — View featured ML projects
+- **[LinkedIn](https://linkedin.com/in/obadara-m)** — Professional network
+- **[X](https://x.com/m_obadara)** — Latest updates and insights
 
 ---
 
-<p align="center">
-  <i>“Data becomes powerful when it tells a story — and even more powerful when it changes lives.”</i>
-</p>
+Let's build something impactful together. Feel free to reach out through my portfolio chatbot or connect on LinkedIn.
