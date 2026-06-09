@@ -34,22 +34,11 @@ I am a Machine Learning Engineer who loves to build highly scalable solutions us
 - **Mentorship** — Guide professionals in AI and machine learning development
 - **Open Source** — Contribute tools that make ML accessible
 
----
-
-## 📦 Open Source
-
-**[torchflow-core](https://pypi.org/project/torchflow-core)** — A PyTorch training framework that simplifies model loops, tuning, and callbacks.
-
-```bash
-pip install torchflow-core
-```
-
----
 
 ## 🔗 Connect & Learn More
 
-- **[Portfolio](https://portfolio-frontend-livid.vercel.app)** — Explore my work and use the chatbot to learn more or contact me
-- **[Projects](https://portfolio-frontend-livid.vercel.app/projects)** — View featured ML projects
+- **[Portfolio](https://mobadara.dev)** — Explore my work and use the chatbot to learn more or contact me
+- **[Projects](https://mobadara.dev/projects)** — View featured ML projects
 - **[LinkedIn](https://linkedin.com/in/obadara-m)** — Professional network
 - **[X](https://x.com/m_obadara)** — Latest updates and insights
 
